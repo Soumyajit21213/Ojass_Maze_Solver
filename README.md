@@ -1,7 +1,7 @@
 # Ojass Maze Solver
 
 ## Description
-The **Ojass Maze Solver** is a project we created fro Techfest of NIT Jamshedpur and we won. It navigates and solves mazes using an Arduino-based robotic system. 
+The **Ojass Maze Solver** is a project we created for Techfest of NIT Jamshedpur and we won. It navigates and solves mazes using an Arduino-based robotic system. 
 
 ## Code Structure
 Below is the detailed structure of the project files and their explanations:
